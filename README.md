@@ -38,3 +38,5 @@ As for flips, the algorithm performs two flips per iteration, resulting in a run
 ## Sources 
 
 For this I used the sorting lecture slides. I used Chatgpt and asked what sorting method this was most similar to. I used Geeks for Geeks to better understand of the use of flips and comparisons. https://www.geeksforgeeks.org/pancake-sorting/ 
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
